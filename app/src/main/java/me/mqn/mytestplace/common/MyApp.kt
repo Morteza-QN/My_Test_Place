@@ -1,4 +1,4 @@
-package me.mqn.mytestplace
+package me.mqn.mytestplace.common
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
